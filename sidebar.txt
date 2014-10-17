@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mta:home|Door43 (mta)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mta|d43-mta repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mta/archive/master.zip|d43-mta.zip]]
+
+**Recent Changes**
+{{changes>ns = mta}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mta|Ethnologue data]]
+
